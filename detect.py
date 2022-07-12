@@ -1,5 +1,6 @@
 # USAGE
 # python predict.py --input dataset/images/face/image_0131.jpg
+# python detect.py -i output/test_paths.txt
 # import the necessary packages
 from utils import config
 from torchvision import transforms
